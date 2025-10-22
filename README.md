@@ -12,6 +12,12 @@ It updates automatically every second using the `after()` method.
 - Customizable font, background, and colors
 
 ---
+## 🖼️ Output Screenshot
+
+Here’s what the DIGITAL CLOCK looks like when running:
+
+![DIGITAL CLOCK Output]()
+
 
 ## 🧰 Requirements
 - Python 3.x  
