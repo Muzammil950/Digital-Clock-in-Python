@@ -16,7 +16,7 @@ It updates automatically every second using the `after()` method.
 
 Here’s what the DIGITAL CLOCK looks like when running:
 
-![DIGITAL CLOCK Output]()
+![DIGITAL CLOCK Output](https://github.com/Muzammil950/Digital-Clock-in-Python/blob/0fcef23385267e7569d0b1add0ef41e68cb8fe9c/python.pro001.png)
 
 
 ## 🧰 Requirements
